@@ -1,5 +1,7 @@
 # Sales Analysis
 
+![](https://github.com/josephSebastian27/Sales_Analysis_using_Python-jupyter_notebook/blob/main/image/project_9.jpg)
+
 ## Project Overview
 This project focuses on analyzing a dataset of sales recorded during the Diwali season to uncover meaningful insights about customer purchasing behavior. The analysis was performed using Python and Jupyter Notebook, leveraging libraries like Pandas, Matplotlib, and Seaborn to manipulate, visualize, and interpret the data.
 
